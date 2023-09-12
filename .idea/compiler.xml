@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="it.unicam.cs.ids.mytest.app" target="17" />
+      <module name="it.unicam.cs.ids.mytest.app.main" target="17" />
+      <module name="it.unicam.cs.ids.mytest.app.test" target="17" />
+      <module name="it.unicam.cs.ids.mytest.buildSrc" target="17" />
+      <module name="it.unicam.cs.ids.mytest.buildSrc.main" target="17" />
+      <module name="it.unicam.cs.ids.mytest.buildSrc.test" target="17" />
+      <module name="it.unicam.cs.ids.mytest.list" target="17" />
+      <module name="it.unicam.cs.ids.mytest.list.main" target="17" />
+      <module name="it.unicam.cs.ids.mytest.list.test" target="17" />
+      <module name="it.unicam.cs.ids.mytest.utilities" target="17" />
+      <module name="it.unicam.cs.ids.mytest.utilities.main" target="17" />
+      <module name="it.unicam.cs.ids.mytest.utilities.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
